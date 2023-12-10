@@ -1,0 +1,45 @@
+
+    {
+        "btcinr": {
+        "base_unit": "btc",
+        "quote_unit": "inr",
+        "low": "3751614.0",
+        "high": "3850000.0",
+        "last": "3800386.0",
+        "type": "SPOT",
+        "open": "3783200",
+        "volume": "3.34198",
+        "sell": "3800386.0",
+        "buy": "3800385.0",
+        "at": 1702149898,
+        "name": "BTC/INR"
+        },
+        "xrpinr": {
+        "base_unit": "xrp",
+        "quote_unit": "inr",
+        "low": "57.0603",
+        "high": "60.1809",
+        "last": "57.2663",
+        "type": "SPOT",
+        "open": "57.58",
+        "volume": "186709.6",
+        "sell": "58.0048",
+        "buy": "57.2672",
+        "at": 1702149898,
+        "name": "XRP/INR"
+        },
+        "ethinr": {
+        "base_unit": "eth",
+        "quote_unit": "inr",
+        "low": "201568.0",
+        "high": "207329.8",
+        "last": "203500.1",
+        "type": "SPOT",
+        "open": "204734.5",
+        "volume": "39.2035",
+        "sell": "204929.2",
+        "buy": "203500.0",
+        "at": 1702149898,
+        "name": "ETH/INR"
+        }
+}
